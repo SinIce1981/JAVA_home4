@@ -1,3 +1,4 @@
+// В калькулятор добавьте возможность отменить последнюю операцию.
 import java.util.LinkedList;
 import java.util.Scanner;
 
